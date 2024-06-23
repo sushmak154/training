@@ -1,0 +1,42 @@
+body {
+    background:#111;
+    position: relative;
+    
+}
+#top {
+    height: 50px;
+    WIDTH: 250PX;
+    background: #ff9c51;
+    box-shadow: 2 2 5px #ff9c51;
+ }
+#middle {
+    height: 50px;
+    WIDTH: 250PX;
+    background: white;
+    box-shadow: 2 2 5px white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#middle img {
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin: auto;
+}
+
+#bottom {
+    height: 50px;
+    WIDTH: 250PX;
+    background: #5aad5e;
+    
+}
+#rod {
+    width: 10px;
+    height: 450px;
+    background: #874a21;
+    position: relative;
+    top: -152px;
+    left: -7px;
+  border-radius: 10%;
+}
